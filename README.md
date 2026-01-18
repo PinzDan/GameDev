@@ -7,10 +7,12 @@ This directory is constantly evolving, so expect new projects and experiments as
 # Files
 This directory is organized by engine and programming language:
 
-- ![C# Icon](C.png) – standalone scripts and components
-- ![Unity Icon](unity.png) – 2D and 3D game projects
-- ![Lua Icon](Lua.png) – scripts and prototypes
-- ![Godot Icon](Godot.svg) – full games and experiments
+## Files
+
+- <img src="C.png" alt="C# Icon" width="32"> – standalone scripts and components
+- <img src="unity.png" alt="Unity Icon" width="32"> – 2D and 3D game projects
+- <img src="Lua.png" alt="Lua Icon" width="32"> – scripts and prototypes
+- <img src="Godot.svg" alt="Godot Icon" width="32"> – full games and experiments
 
 
 ## Create files and folders
