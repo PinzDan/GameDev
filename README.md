@@ -9,7 +9,7 @@ This directory is organized by engine and programming language:
 
 ## Files
 
-- <img src="C#.svg" alt="C# Icon" width="32"> – standalone scripts and components
+- <img src="C.svg" alt="C# Icon" width="32"> – standalone scripts and components
 - <img src="Unity.svg" alt="Unity Icon" width="32"> – 2D and 3D game projects
 - <img src="Lua.svg" alt="Lua Icon" width="32"> – scripts and prototypes
 - <img src="Godot.svg" alt="Godot Icon" width="32"> – full games and experiments
